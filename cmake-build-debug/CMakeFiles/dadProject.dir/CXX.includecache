@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dylan/CLionProjects/year4/Formal_Approaches_to_Software_Engineering/dadProject/coordinates.cpp
+coordinates.h
+C:/Users/Dylan/CLionProjects/year4/Formal_Approaches_to_Software_Engineering/dadProject/coordinates.h
+point.h
+C:/Users/Dylan/CLionProjects/year4/Formal_Approaches_to_Software_Engineering/dadProject/point.h
+cmath
+-
+iostream
+-
+
+C:/Users/Dylan/CLionProjects/year4/Formal_Approaches_to_Software_Engineering/dadProject/coordinates.h
+point.h
+C:/Users/Dylan/CLionProjects/year4/Formal_Approaches_to_Software_Engineering/dadProject/point.h
+
+C:/Users/Dylan/CLionProjects/year4/Formal_Approaches_to_Software_Engineering/dadProject/point.h
+
